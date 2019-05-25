@@ -1,0 +1,39 @@
+c:\users\barış mizrakli\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\barış mizrakli\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\barış mizrakli\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\barış mizrakli\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\barış mizrakli\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\barış mizrakli\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\barış mizrakli\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\barış mizrakli\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\barış mizrakli\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Barış MIZRAKLI\Desktop\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Barış MIZRAKLI\Desktop\Source\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Barış MIZRAKLI\Desktop\Source\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Barış MIZRAKLI\Desktop\Source\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Barış MIZRAKLI\Desktop\Source\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Barış MIZRAKLI\Desktop\Source\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Barış MIZRAKLI\Desktop\Source\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Barış MIZRAKLI\Desktop\Source\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Barış MIZRAKLI\Desktop\Source\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Barış MIZRAKLI\Desktop\Source\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Barış MIZRAKLI\Desktop\Source\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Windows 10 Yedek 24 Kasım 2018\Repo\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Windows 10 Yedek 24 Kasım 2018\Repo\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Windows 10 Yedek 24 Kasım 2018\Repo\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Windows 10 Yedek 24 Kasım 2018\Repo\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+F:\Windows 10 Yedek 24 Kasım 2018\Repo\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Windows 10 Yedek 24 Kasım 2018\Repo\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Windows 10 Yedek 24 Kasım 2018\Repo\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+F:\Windows 10 Yedek 24 Kasım 2018\Repo\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+F:\Windows 10 Yedek 24 Kasım 2018\Repo\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Windows 10 Yedek 24 Kasım 2018\Repo\GSMTurkey Recovery Tool Source\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
